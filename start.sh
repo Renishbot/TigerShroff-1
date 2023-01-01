@@ -1,5 +1,5 @@
 echo "Cloning Repo, Please Wait..."
-git clone -b main https://github.com/200920082007/TigerShroff.git /TigerShroff
+git clone https://github.com/Renishbot/TigerShroff-1 /TigerShroff
 cd /TigerShroff
 echo "Installing Requirements..."
 pip3 install -U -r requirements.txt
